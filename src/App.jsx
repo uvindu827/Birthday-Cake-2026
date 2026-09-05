@@ -74,7 +74,7 @@ function App() {
               🎉 May your wish be granted! Happy Birthday, love! 🎉
             </motion.p>
 
-            <LoveLetter message="Happy Birthday my love! Every year with you feels like a gift I don't deserve but I'm so grateful for anyway. Here's to many more, and to every candle we get to blow out together. ❤️" />
+            <LoveLetter message="Happy Birthday my love🌼 Every year with you feels like a gift I don't deserve but I'm so grateful for anyway. Here's to many more, and to every candle we get to blow out together. ❤️" />
 
             <MakeAWish />
           </>
