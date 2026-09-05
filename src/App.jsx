@@ -42,7 +42,7 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         className="text-4xl md:text-6xl font-bold text-rose-300 mb-4 z-10"
       >
-        Happy Birthday 🎂
+       🌼Happy Birthday Chutyy❤️
       </motion.h1>
 
       <div className="mt-4 z-10">
@@ -55,7 +55,7 @@ function App() {
             onClick={() => setMicStarted(true)}
             className="px-6 py-3 bg-rose-500 text-white rounded-full shadow-lg active:scale-95 transition"
           >
-            🎤 Enable Mic & Blow the Candles
+            😍Blow the Candles😍
           </button>
         )}
         {micStarted && !allBlown && (
@@ -71,7 +71,7 @@ function App() {
               animate={{ opacity: 1, scale: 1 }}
               className="text-2xl text-rose-200 font-semibold mt-4"
             >
-              🎉 Wish granted! Happy Birthday, love! 🎉
+              🎉 May your wish be granted! Happy Birthday, love! 🎉
             </motion.p>
 
             <LoveLetter message="Happy Birthday my love! Every year with you feels like a gift I don't deserve but I'm so grateful for anyway. Here's to many more, and to every candle we get to blow out together. ❤️" />
